@@ -24,10 +24,7 @@ The game presents players with five distinct paths, each offering unique challen
 4. Shadowy Path
 5. Starlit Path
 
-Navigate through these paths wisely, as your decisions will determine the outcome of your quest.
-
-## Screenshots
-[Add screenshots or GIFs showcasing gameplay here]
+Navigate through these paths wisely, as your decisions will determine the outcome of your quest
 
 ## Credits
 - **Author:** Luca Hanssen
